@@ -1,7 +1,14 @@
 📌  Imersao-React-aula1
 *************************************************************************************************
 
+![image](https://user-images.githubusercontent.com/72118415/151720252-543414c2-3931-4b30-9db0-f3e958a1957c.png)
 
+![image](https://user-images.githubusercontent.com/72118415/151720304-c8c6a51f-c2da-4374-adbe-3406fabc712d.png)
+
+![image](https://user-images.githubusercontent.com/72118415/151720317-94bc17b9-84ac-4198-a4c4-6b5a0443f751.png)
+
+
+***************************************************************************************************
 🚀 Aula 1: Matrix Chat: Criando o nosso projeto Aluracord
 
 Elaborando durante as aulas da Irmesão Dev da Alura, Nesta primeira aula de React  fizemos a nossa

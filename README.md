@@ -43,14 +43,12 @@ Faremos deploy do seu Aluracord na Vercel.
 ****************************************************************************************************************
 💡 Considerações finais
 
-Agradeço a todos por esse aprendizado e vou continuar a me dedicar, aprender a completar e melhorar ainda mais
-essa aplicação de projeto.
-
+Agradeço @Alura, @omariosouto , @peas  e  todos que me ajudaram por esse aprendizado e vou continuar a me dedicar, 
+aprender a mais, valeu por essa irmesão dev.
 ***************************************************************************************************************
  📬 Contatos
  
  [Linkedin](https://www.linkedin.com/in/christiane-gozza/)
- 
- ***********************************************************************************************************
+ **********************************************************************************************************
  Deixe-me uma [⭐️](https://github.com/chritianegozza)
 

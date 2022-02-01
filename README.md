@@ -8,6 +8,11 @@
 ![image](https://user-images.githubusercontent.com/72118415/151720317-94bc17b9-84ac-4198-a4c4-6b5a0443f751.png)
 
 
+![image](https://user-images.githubusercontent.com/72118415/151916931-4aee1ded-b8f5-4c7c-b5d4-822e82183d7d.png)
+
+![image](https://user-images.githubusercontent.com/72118415/151916955-70fd890b-eb3a-4eb3-ba4e-4df95bdd77ac.png)
+
+
 ***************************************************************************************************
 🚀 Aula 1: Matrix Chat: Criando o nosso projeto Aluracord
 
@@ -20,6 +25,18 @@ camada de estilo da nossa aplicação, duas ferramentas essenciais do mundo Reac
 se tornou tão popular no mercado de tecnologia e como iniciar o nosso aprendizado com a tecnologia.
 
 ****************************************************************************************************************
+Aula 2: State, novas páginas e navegação SPA vs a Tradicional
+
+Agora quando digitamos um nome, irá aparecer a imagem e usuário que foi digitado na caixa de texto. 
+
+Nesta aula aprendemos a lidar com o state do React e entender melhor o que é uma SPA (Single Page Application).
+
+-Entender melhor o que é um SPA;
+-Conhecer o useState do React;
+-Como trabalhar com eventos no React onSubmit, onClick;
+-E sempre após cada push na sua branch principal do GitHub faremos deploy do seu Aluracord na Vercel.
+
+***************************************************************************************************************
 👩🏻‍💻 Tecnologia utilizada 
 
 Iniciaremos um projeto Next.js;
